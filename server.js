@@ -32,7 +32,7 @@ con.connect(function(err) {
     });
   });
 
-con.connect(function(err) { 
+/*con.connect(function(err) { 
     if (err) throw err;
     con.query("DELETE FROM customers WHERE address = 'Highway 37'", function (err, result) {
       if (err) throw err;
@@ -55,4 +55,4 @@ con.connect(function(err) {
       console.log("Table deleted");
     });
   });
-
+*/
