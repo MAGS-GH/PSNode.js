@@ -1,0 +1,1 @@
+REPLACE INTO customers (name, address) VALUES ('Company Inc', 'Highway 37')
